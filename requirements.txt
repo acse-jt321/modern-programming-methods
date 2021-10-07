@@ -1,0 +1,11 @@
+ipython
+jupyter
+numpy
+scipy
+matplotlib
+okpy
+jupyter-book==0.7.3
+sphinx==2.4.4
+pandas
+pybryt
+pytest

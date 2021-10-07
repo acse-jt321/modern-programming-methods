@@ -1,0 +1,12 @@
+name: ese-msc
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+ - pip==21.0.1
+ - ipython
+ - jupyter
+ - numpy
+ - scipy
+ - pip:
+   - -r requirements.txt
