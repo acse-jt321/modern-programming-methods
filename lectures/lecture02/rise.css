@@ -1,0 +1,13 @@
+img.logo {
+    opacity:20%;
+    max-height:200px;
+    padding: 20px;
+}
+
+.reveal {
+    font-family: "Helvetica";
+}
+
+.fa-question {
+    opacity:0;
+}
